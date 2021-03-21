@@ -1,4 +1,4 @@
-all about arraylist
+
 
 ArrayList();
 ArrayList(Collection c)
