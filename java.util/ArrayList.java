@@ -1,3 +1,5 @@
+all about arraylist
+
 ArrayList();
 ArrayList(Collection c)
 ArrayList(int initialCapacity)
